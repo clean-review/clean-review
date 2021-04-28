@@ -1,0 +1,4 @@
+org/judy/testfb/TestfbApplicationTests.java
+ org.judy.testfb.TestfbApplicationTests
+org/judy/testfb/service/TestServiceTEsts.java
+ org.judy.testfb.service.TestServiceTEsts
